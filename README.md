@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @GarriguesN
 - 👀 I’m interested in Cybersecurity and Programming
-- 🌱 I’m currently learning Computer Science
 - 📫 How to reach me garriguesnacho@gmail.com
