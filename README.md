@@ -15,10 +15,8 @@ Only if you have npm installed!
 
 <h2 align="center">⚡ My skills!</h2>
 
-___
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,docker,git,html,java,js,linux,mysql,nuxtjs,php,python,tailwind,vue,laravel" alt="Skills" />
   </a>
 </p>
