@@ -1,11 +1,8 @@
-
+<p align="center">[![wakatime](https://wakatime.com/badge/user/de65bb6a-656d-4719-97a5-9ed3c5797ec7.svg)](https://wakatime.com/@garriguesN)</p>
 # Hello! it's me @GarriguesN
 
 
-```JavaScript
-    Curious and a lifelong student, I spend most of my time exploring and learning.
-    I have a passion for development, which empowers me to excel in both ENDs development.
-```
+> Curious and a lifelong student, I spend most of my time exploring and learning. I have a passion for development, which empowers me to excel in both ENDs development.
 
 Want to know more about me? You can quickly get additional information by using. 
 ```bash
