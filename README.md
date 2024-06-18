@@ -1,4 +1,4 @@
-<p align="center">[![wakatime](https://wakatime.com/badge/user/de65bb6a-656d-4719-97a5-9ed3c5797ec7.svg)](https://wakatime.com/@garriguesN)</p>
+[![wakatime](https://wakatime.com/badge/user/de65bb6a-656d-4719-97a5-9ed3c5797ec7.svg)](https://wakatime.com/@garriguesN)
 # Hello! it's me @GarriguesN
 
 
