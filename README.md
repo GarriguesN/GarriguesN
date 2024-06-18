@@ -1,4 +1,5 @@
-[![wakatime](https://wakatime.com/badge/user/9b93daef-11b4-4335-ab2c-b032ba3a0b28.svg)](https://wakatime.com/@9b93daef-11b4-4335-ab2c-b032ba3a0b28)![Static Badge](https://img.shields.io/badge/learning-%26-working)
+[![wakatime](https://wakatime.com/badge/user/9b93daef-11b4-4335-ab2c-b032ba3a0b28.svg)](https://wakatime.com/@9b93daef-11b4-4335-ab2c-b032ba3a0b28) ![Static Badge](https://img.shields.io/badge/learning-red-working-green)
+
 
 
 # Hello! it's me @GarriguesN
