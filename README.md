@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/9b93daef-11b4-4335-ab2c-b032ba3a0b28.svg)](https://wakatime.com/@9b93daef-11b4-4335-ab2c-b032ba3a0b28) 
+[![wakatime](https://wakatime.com/badge/user/9b93daef-11b4-4335-ab2c-b032ba3a0b28.svg)](https://wakatime.com/@9b93daef-11b4-4335-ab2c-b032ba3a0b28) [![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
 
 
 
