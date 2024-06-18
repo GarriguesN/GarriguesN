@@ -9,9 +9,9 @@ Want to know more about me? You can quickly get additional information by using.
 npx garriguesn
 ```
 Only if you have npm installed!
-
+<p align="center">
 <img src="https://i.ibb.co/vDkcntM/Screenshot-20240618-164214.png" alt="Screenshot-20240618-164214" border="0">
-
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
