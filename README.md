@@ -12,6 +12,9 @@ Only if you have npm installed!
 <p align="center">
 <img src="https://i.ibb.co/vDkcntM/Screenshot-20240618-164214.png" alt="Screenshot-20240618-164214" border="0">
 </p>
+
+<h2 align="center">⚡ My skills!</h2>
+___
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
