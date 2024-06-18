@@ -1,9 +1,7 @@
 <div align="center">
-    <a href="https://wakatime.com/@9b93daef-11b4-4335-ab2c-b032ba3a0b28">
         <img src="https://wakatime.com/badge/user/9b93daef-11b4-4335-ab2c-b032ba3a0b28.svg" alt="wakatime">
-    </a>
         <img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white" alt="OS - Linux">
-    <img src="https://img.shields.io/badge/learning-working?label=working" alt="Static Badge">
+        <img src="https://img.shields.io/badge/learning-working?label=working" alt="Static Badge">
 </div>
 
 # Hello! it's me @GarriguesN
