@@ -9,6 +9,7 @@ Want to know more about me? You can quickly get additional information by using.
 npx garriguesn
 ```
 Only if you have npm installed!
+<img alt="screenshot" src="https://ibb.co/stqgYBX" />
 
 <p align="center">
   <a href="https://skillicons.dev">
