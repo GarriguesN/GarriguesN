@@ -21,5 +21,5 @@ Only if you have npm installed!
 <h2 align="center">⚡ My skills!</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,java,docker,mysql,git,tailwind" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,angular,java,docker,mysql,git,tailwind" alt="Skills" />
 </p>
